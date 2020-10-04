@@ -1,13 +1,37 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Terceiro projeto do Bootcamp de React Web Developer, da Digital Innovation One :smile:
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+O objetivo do projeto era criar um jogo da memória utilizando JavaScript!
 
-### Os requisitos são:
+Realizando esse projeto eu aprendi:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
+* Aprimorei flexbox
+
+* Vários conceitos legais de JavaScript, principalmente o EventListener
+
+* Funcionalidades do CSS como:
+
+  
+
+  ```scss
+      transform: scale(1);
+      transform-style: preserve-3d;
+      transition: transform .9s;
+  	backface-visibility: hidden
+  	transform: rotateY(180deg);
+  ```
+
+  
+
+![print tela]()
+
+Para alterar o projeto inicial eu tive a ideia de adicionar um efeito sonoro quando o usuário acertar as cartas e foi muito simples e deixou um efeito muito legal.
+
+### :computer: Tecnologias 
+
+* HTML
+* CSS
+* JavaScript
 
 
-## 🚀 Let's code! 🚀
+
+## Let's code! 🚀
