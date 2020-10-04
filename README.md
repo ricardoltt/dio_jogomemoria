@@ -22,7 +22,7 @@ Realizando esse projeto eu aprendi:
 
   
 
-![print tela]()
+![gif tela](https://github.com/ricardoltt/dio_jogomemoria/blob/master/assets/apresent.gif)
 
 Para alterar o projeto inicial eu tive a ideia de adicionar um efeito sonoro quando o usuário acertar as cartas e foi muito simples e deixou um efeito muito legal.
 
